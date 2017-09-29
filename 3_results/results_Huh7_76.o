@@ -1,0 +1,155 @@
+[1] "Your data set comprises  61 conditions (i.e. combinations of time point and treatment)"
+[1] "Your data comprises only a DA:ALL column;  all readouts are assumed to have been acquired at the same time."
+[1] "Your data set comprises measurements on  15  different species"
+[1] "Your data set comprises  12 stimuli/inhibitors and 1 cell line(s) ( mock )"
+[1] "Please be aware that CNO only handles measurements on one cell line at this time."
+[1] "Your data file contained 'NaN'. We have assumed that these were missing values and replaced them by NAs."
+[1] "Your data set comprises  34 conditions (i.e. combinations of time point and treatment)"
+[1] "Your data comprises only a DA:ALL column;  all readouts are assumed to have been acquired at the same time."
+[1] "Your data set comprises measurements on  15  different species"
+[1] "Your data set comprises  22 stimuli/inhibitors and 1 cell line(s) ( mock )"
+[1] "Please be aware that CNO only handles measurements on one cell line at this time."
+[1] "Your data file contained 'NaN'. We have assumed that these were missing values and replaced them by NAs."
+[1] "Your data set comprises  61 conditions (i.e. combinations of time point and treatment)"
+[1] "Your data comprises only a DA:ALL column;  all readouts are assumed to have been acquired at the same time."
+[1] "Your data set comprises measurements on  10  different species"
+[1] "Your data set comprises  12 stimuli/inhibitors and 1 cell line(s) ( mock )"
+[1] "Please be aware that CNO only handles measurements on one cell line at this time."
+[1] "Your data file contained 'NaN'. We have assumed that these were missing values and replaced them by NAs."
+[1] "WARNING: THIS ORDER VARIES IF THE SIF VARIES. Uncomment conde in rhsODE.c to check new indices!!!"
+[1] "k1 is equivalent to: Input05_k_Acetyl_CoA"
+[1] "k2 is equivalent to: Acetyl_CoA_k_Acetoacetyl_CoA"
+[1] "k3 is equivalent to: Acetoacetyl_CoA_k_HMG_CoA"
+[1] "k4 is equivalent to: HMG_CoA_k_Mevalonate"
+[1] "k5 is equivalent to: Mevalonate_k_CholER"
+[1] "k6 is equivalent to: CholMedia_k_CholER"
+[1] "k7 is equivalent to: ACAT2act_k_Acetoacetyl_CoA"
+[1] "k8 is equivalent to: LDLR_k_CholER"
+[1] "kM4 is equivalent to: HMG_CoA_n_Mevalonate"
+[1] "kIatorvastatin is equivalent to: atorvastatin_k_Mevalonate"
+[1] "tauAcetyl_CoA_index is equivalent to: HMGCS1act_k_HMG_CoA"
+[1] "tauAcetoacetyl_CoA_index is equivalent to: Acetyl_CoA_n_Acetoacetyl_CoA"
+[1] "tauHMG_CoA_index is equivalent to: Acetyl_CoA_k_HMG_CoA"
+[1] "tauMevalonate_index is equivalent to: atorvastatin_n_Mevalonate"
+[1] "tauCholER_index is equivalent to: CholMedia_n_CholER"
+[1] "eSS R2014A - Enhanced Scatter Search"
+[1] "eSS R2014A - Enhanced Scatter Search"
+
+ ------------------------------------------------------------------------------ 
+ essR - Enhanced Scatter Search in R 
+<c> IIM-CSIC, Vigo, Spain -  email: gingproc@iim.csic.es 
+------------------------------------------------------------------------------ 
+
+Initial Pop: NFunEvals: 506 Bestf: 0.1478765 CPUTime: 101.073 Mean: 111171841 
+Iteration: 1 NFunEvals: 2140 Bestf: 0.1478765 CPUTime: 414.654 Mean: 0.2321407 
+Call local solver: DHC 
+Initial point function value: 0.1478765 
+Local solution function value: 0.02119366 
+Number of function evaluations in the local search: 10800 
+CPU Time of the local search: 1651.483 seconds 
+
+Iteration: 2 NFunEvals: 14554 Bestf: 0.02119366 CPUTime: 2362.642 Mean: 0.1704539 
+Iteration: 3 NFunEvals: 16174 Bestf: 0.02119366 CPUTime: 2656.041 Mean: 0.1287198 
+Iteration: 4 NFunEvals: 17797 Bestf: 0.02119366 CPUTime: 2945.354 Mean: 0.09225041 
+Iteration: 5 NFunEvals: 19407 Bestf: 0.02119366 CPUTime: 3235.201 Mean: 0.07123832 
+Iteration: 6 NFunEvals: 21032 Bestf: 0.02119366 CPUTime: 3525.701 Mean: 0.05342149 
+Iteration: 7 NFunEvals: 22658 Bestf: 0.02119366 CPUTime: 3816.469 Mean: 0.03719826 
+Iteration: 8 NFunEvals: 24269 Bestf: 0.02119366 CPUTime: 4099.399 Mean: 0.02820043 
+Iteration: 9 NFunEvals: 25884 Bestf: 0.02119366 CPUTime: 4380.972 Mean: 0.02378827 
+Iteration: 10 NFunEvals: 27505 Bestf: 0.02118324 CPUTime: 4659.444 Mean: 0.02208383 
+Iteration: 11 NFunEvals: 29120 Bestf: 0.02111905 CPUTime: 4936.14 Mean: 0.02146593 
+Call local solver: DHC 
+Initial point function value: 0.02166842 
+Local solution function value: 0.01936592 
+Number of function evaluations in the local search: 10800 
+CPU Time of the local search: 2109.427 seconds 
+
+Iteration: 12 NFunEvals: 41530 Bestf: 0.01936592 CPUTime: 7325.555 Mean: 0.02111459 
+Iteration: 13 NFunEvals: 43138 Bestf: 0.01936592 CPUTime: 7617.325 Mean: 0.02073993 
+Iteration: 14 NFunEvals: 44748 Bestf: 0.01936592 CPUTime: 7923.871 Mean: 0.02029827 
+Iteration: 15 NFunEvals: 46360 Bestf: 0.01936592 CPUTime: 8248.016 Mean: 0.01989865 
+Iteration: 16 NFunEvals: 47980 Bestf: 0.0193606 CPUTime: 8583.317 Mean: 0.01964411 
+Iteration: 17 NFunEvals: 49590 Bestf: 0.0193606 CPUTime: 8925.948 Mean: 0.01948976 
+Iteration: 18 NFunEvals: 51209 Bestf: 0.01935528 CPUTime: 9272.237 Mean: 0.01941654 
+
+Final local refinement:  DHC 
+Initial point function value:  0.01935528 
+Local solution function value: 0.01920554 
+Number of function evaluations in the local search: 3896 
+CPU Time of the local search: 826.121 seconds 
+
+Maximum number of function evaluations achieved 
+Best solution value 0.01920554 
+Decision vector 0.01497121 1.95692 0.01637422 2.011392 0.4901063 2.036431 0.0108195 0.3681861 0.2694366 0.9741925 0.1356648 995.6478 0.372744 2.015885 0.4968189 4.819692 2.56448 0.57528 4 0.1165395 1.480787 0.6964499 5 4 0.3816997 95.55784 173176.5 2.858117 102180.4 0.1 1.686004 0.5100009 5 3.478186 0.4742763 20 1.947218 3.864685 0.09895782 3.991242 0.0001228059 0.1 2 0.3475255 2 0.566263 0.532339 0.1349203 0.5980827 0.1 0.6318215 6.543336 5 0.5 5.239065 0.5 0.8372354 1.65147 0.5 1.494724 0.4919497 0.5 2.582669 0.4365093 5 0.7562685 1.216749 5 2.07133 0.9487434 1.616814 4.308306 0.7891804 4 10 4 10 1.766219 0.8278526 0.5 0.5097343 5.376233 2.180195 0.5350282 0.5 4 0.5820317 1.097582 0.466869 5 1.808882 0.4910569 0.5 2.107904 0.4384199 0.5 1.291889 0.4302514 0.5 2.773059 0.5167415 0.5 0.5458747 0.4945369 0.5 0.3695275 0.3634852 0.5015348 
+CPU time 10098.36 
+Number of function evaluations 51210 
+R version 3.3.1 (2016-06-21)
+Platform: x86_64-redhat-linux-gnu (64-bit)
+Running under: Red Hat Enterprise Linux Server 7.2 (Maipo)
+
+locale:
+ [1] LC_CTYPE=en_US.utf8       LC_NUMERIC=C             
+ [3] LC_TIME=en_US.utf8        LC_COLLATE=en_US.utf8    
+ [5] LC_MONETARY=en_US.utf8    LC_MESSAGES=en_US.utf8   
+ [7] LC_PAPER=en_US.utf8       LC_NAME=C                
+ [9] LC_ADDRESS=C              LC_TELEPHONE=C           
+[11] LC_MEASUREMENT=en_US.utf8 LC_IDENTIFICATION=C      
+
+attached base packages:
+[1] grid      parallel  methods   stats     graphics  grDevices utils    
+[8] datasets  base     
+
+other attached packages:
+ [1] MEIGOR_1.8.0        deSolve_1.14        CNORode_2.13.18    
+ [4] genalg_0.2.0        CellNOptR_1.20.0    XML_3.98-1.5       
+ [7] Rgraphviz_2.18.0    RCurl_1.95-4.8      bitops_1.0-6       
+[10] ggplot2_2.2.1       hash_2.2.6          RBGL_1.50.0        
+[13] graph_1.52.0        BiocGenerics_0.20.0 snowfall_1.84-6.1  
+[16] snow_0.4-2          Rsolnp_1.16        
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_0.12.9      munsell_0.4.3    colorspace_1.3-2 plyr_1.8.4      
+ [5] tools_3.3.1      gtable_0.2.0     lazyeval_0.2.0   assertthat_0.1  
+ [9] tibble_1.2       scales_0.4.1     stats4_3.3.1     truncnorm_1.0-7 
+
+------------------------------------------------------------
+Sender: LSF System <lsf@ebi6-007>
+Subject: Job 3364673: <./run_peter_pert_bootstrap_Huh7.sh> in cluster <EBI> Done
+
+Job <./run_peter_pert_bootstrap_Huh7.sh> was submitted from host <ebi-login-001> by user <blattman> in cluster <EBI>.
+Job was executed on host(s) <ebi6-007>, in queue <research-rh7>, as user <blattman> in cluster <EBI>.
+</homes/blattman> was used as the home directory.
+</homes/blattman> was used as the working directory.
+Started at Mon Jul 10 16:02:49 2017
+Results reported at Mon Jul 10 18:51:11 2017
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./run_peter_pert_bootstrap_Huh7.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :               10108.08 sec.
+    Max Memory :             152 MB
+    Average Memory :         140.80 MB
+    Total Requested Memory : -
+    Delta Memory :           -
+    (Delta: the difference between total requested memory and actual max usage.)
+    Max Swap :               690 MB
+
+    Max Processes :          4
+    Max Threads :            5
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <3_results/results_Huh7_76.e> for stderr output of this job.
+
